@@ -13,7 +13,7 @@ CONTAINER ID   IMAGE               COMMAND                  CREATED          STA
 ```
 8. Use the following credentials to tunnel your connection:
 Protocol: Shadowsocks
-IP: <Server IP>
+IP: Server IP
 Port: 8388
-Password: <Password from the configuration file>
+Password: Password from the configuration file
 Encryption method: aes-256-gcm 
