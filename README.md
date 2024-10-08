@@ -12,8 +12,8 @@ CONTAINER ID   IMAGE               COMMAND                  CREATED          STA
 3119892b1bec   v2ray-proxy-v2ray   "/bin/sh -c ./v2ray"     22 minutes ago   Up 6 seconds   0.0.0.0:8388->8388/tcp                           v2ray
 ```
 8. Use the following credentials to tunnel your connection:
-Protocol: Shadowsocks
-IP: Server IP
-Port: 8388
-Password: Password from the configuration file
-Encryption method: aes-256-gcm 
+- Protocol: Shadowsocks
+- IP: Server IP
+- Port: 8388
+- Password: Password from the configuration file
+- Encryption method: aes-256-gcm 
